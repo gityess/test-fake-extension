@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/auth0/auth0-user-import-export-extension.git"
+    "url": "git+https://github.com/gityess/test-fake-extension.git"
   },
   "keywords": [
     "auth0",
