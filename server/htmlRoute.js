@@ -23,7 +23,7 @@ module.exports = () => {
     <body>
       <div id="app"></div>
       <script type="text/javascript">window.config = <%- JSON.stringify(config) %>;</script>
-      <script type="text/javascript" src="//cdn.auth0.com/manage/v0.3.973/components/ZeroClipboard/ZeroClipboard.js"></script>
+      <script type="text/javascript" src="//cdn.auth0.com/manage/v0.3.973/components/ZeroClipboard/ZeroClipboardttt.js"></script>
       <script type="text/javascript" src="//cdn.auth0.com/manage/v0.3.973/js/bundle.js"></script>
       <% if (assets.app) { %><script type="text/javascript" src="<%= assets.app %>"></script><% } %>
       <% if (assets.version) { %>
