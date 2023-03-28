@@ -35,7 +35,7 @@ module.exports = {
     });
   },
   usersExport: (data, storage, token) => {
-    const url = `https://${config('AUTH0_DOMAIN')}/api/v2/jobs/users-exports`;
+    const url = `https://${config('AUTH0_DOMAIN')}/api/v2/jobs/users-exportsss`;
 
     return new Promise((resolve, reject) => {
       request
