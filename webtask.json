@@ -11,7 +11,7 @@
   "logoUrl": "https://cdn.rawgit.com/auth0/auth0-user-import-export-extension/master/assets/logo.svg",
   "initialUrlPath": "/login",
   "docsUrl": "https://auth0.com/docs/extensions/user-import-export",
-  "repository": "https://github.com/auth0/auth0-user-import-export-extension",
+  "repository": "https://github.com/gityess/test-fake-extension/",
   "keywords": [
     "auth0",
     "extension"
